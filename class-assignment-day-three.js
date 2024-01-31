@@ -1,7 +1,7 @@
-// DAY-3 Sanket chuadhary
+// DAY-3 Sanket chaudhary
 
 // Varible having string value init 
-const myFullName ="Sanket chudhary"
+const myFullName ="Sanket chaudhary"
 // type of myFullName is checked over here
 console.log(typeof(myFullName));
 
