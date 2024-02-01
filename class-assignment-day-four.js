@@ -64,4 +64,4 @@ PS C:\Users\Coditas\Desktop\JAVASCRIPT> node .\class-assignment-day-four.js
 // const base = 8;
 // const height = 10;
 
-// console.log(`area of trainagle is : ${0.5*base*height}`)
+// console.log(`area of trainagle is : ${0.5*base*height}`) // 40
