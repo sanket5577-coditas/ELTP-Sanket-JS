@@ -2,7 +2,7 @@
 console.log(typeof('70')===typeof(70)) //false
 
 // Check if parseInt('8.8') is equal to 9
-console.log(parseInt('8.8')===parseInt(9)) //false
+console.log(parseInt('8.8')===(9)) //false
 
 // Boolean value is either true or false.
 // Write five JavaScript statement which provide falsy value.
